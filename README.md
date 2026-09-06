@@ -21,6 +21,6 @@ Development: Python, C++, Java, Assembly (Irvine32), PostgreSQL.
 
 Get in touch:
 
-💼 [LinkedIn]([Insert your LinkedIn URL here](https://www.linkedin.com/in/omar-abdel-kader-97a496382/))
+💼 ([ LinkedIn ](https://www.linkedin.com/in/omar-abdel-kader-97a496382/))
 
 ✍️ Freelance Technical Writer specializing in security documentation, SIEM architectures, and incident reports.
